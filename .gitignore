@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+UserSettings/
+
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.slnx
+*.apk
+desktop.ini
+
+*_BurstDebugInformation_DoNotShip/
+*BackUpThisFolder_ButDontShipItWithYourGame/
